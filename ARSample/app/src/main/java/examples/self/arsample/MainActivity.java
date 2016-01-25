@@ -88,5 +88,5 @@ public class MainActivity extends Activity {
 }
 
 /*
-We finally made it this far!!!! -LM
+Got this shit going finally!!!!!!
  */
