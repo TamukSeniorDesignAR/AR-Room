@@ -1,0 +1,74 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml:3:1-26:12
+	package
+		ADDED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml:4:5-37
+		INJECTED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml:3:11-69
+uses-sdk
+ADDED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.0.1] C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml:7:15-40
+		INJECTED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml:9:5-23:19
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.0.1] C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml:10:9-43
+activity#examples.self.arsample.MainActivity
+ADDED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml:12:9-22:20
+	android:screenOrientation
+		ADDED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml:15:13-52
+	android:label
+		ADDED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml:13:13-45
+	android:configChanges
+		ADDED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml:17:13-65
+	android:theme
+		ADDED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml:16:13-71
+	android:name
+		ADDED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml:14:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml:20:27-74
+uses-feature#android.hardware.camera
+ADDED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml:24:5-60
+	android:name
+		ADDED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml:24:19-57
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml:25:5-65
+	android:name
+		ADDED from C:\Users\lucas\Documents\Android_Studios\Projects\ARSample\app\src\main\AndroidManifest.xml:25:22-62
