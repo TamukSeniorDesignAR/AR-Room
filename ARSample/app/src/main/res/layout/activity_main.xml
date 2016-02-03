@@ -7,7 +7,7 @@
   ******* also note the "android:background="#00000000"" do not change this because it is set
    to opacity to be clear and black so idk if it will mess with the camera clarity if it
    changes-->
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
     android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
@@ -16,6 +16,13 @@
     android:orientation="horizontal"
     android:background="#00000000"
     android:weightSum="1">
+
+    <android.view.SurfaceView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/cameraPreview"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent">
+    </android.view.SurfaceView>
 
     <LinearLayout
         android:orientation="vertical"
@@ -38,11 +45,4 @@
             android:layout_weight="0.02" />
     </LinearLayout>
 
-    <android.view.SurfaceView
-        xmlns:android="http://schemas.android.com/apk/res/android"
-        android:id="@+id/cameraPreview"
-        android:layout_width="match_parent"
-        android:layout_height="fill_parent">
-    </android.view.SurfaceView>
-
-</LinearLayout>
+</RelativeLayout>
